@@ -1,5 +1,13 @@
 @charset "UTF-8";
 
+/*Formulários - dicas iniciais*/
+
+/*<form action="cadastro.js" method="post" >*/
+
+/*<form action="cadastro.js" - depois de form action=" - colocar pra qual linguagem irão os dados, ex: php/Js. */
+
+/*<form action="cadastro.js" method="post" > - Metódo post, melhor metodo. */
+
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
